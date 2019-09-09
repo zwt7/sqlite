@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sqlite</string>
+    <string-array name="class_array">
+        <item>移动1711</item>
+        <item>移动1813</item>
+        <item>云算1811</item>
+        <item>经管1711</item>
+    </string-array>
+</resources>
